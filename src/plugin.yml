@@ -1,0 +1,5 @@
+name: Colorizer
+version: 1.0
+author: Gunlek
+main: com.simpleduino.colorizer.ColorizerPlugin
+website: http://simple-duino.com
